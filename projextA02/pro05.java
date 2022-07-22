@@ -76,7 +76,7 @@ public class pro05 {
 		
 		String s1=null;
 		String s2="";
-		int[] a1=null;//int[]은 배열이다. 주소를 가진
+		int[] a1=null;// int[]은 배열이다. 주소를 가진
 		System.out.println(s1);
 		System.out.println(a1);
 		
