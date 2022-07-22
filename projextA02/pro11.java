@@ -25,6 +25,7 @@ public class pro11 {
 		
 		boolean single = scanner.nextBoolean();
 		System.out.println("독신여부는"+single+"입니다.");
+		
 	}
 
 }
